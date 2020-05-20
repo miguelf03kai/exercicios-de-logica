@@ -1,7 +1,7 @@
 using System;
 
 /**
- * Project: Drawing a triangle
+ * Projeto: desenhar um triangulo
  *
  * Author: miguelf03kai
  */

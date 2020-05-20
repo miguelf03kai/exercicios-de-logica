@@ -1,0 +1,5 @@
+D:\Repositories\Source_Code\C#\exercios-logicos\Drawing_Triangle\Drawing_Triangle\bin\Debug\Drawing_Triangle.exe
+D:\Repositories\Source_Code\C#\exercios-logicos\Drawing_Triangle\Drawing_Triangle\bin\Debug\Drawing_Triangle.pdb
+D:\Repositories\Source_Code\C#\exercios-logicos\Drawing_Triangle\Drawing_Triangle\obj\x86\Debug\Drawing_Triangle.csprojResolveAssemblyReference.cache
+D:\Repositories\Source_Code\C#\exercios-logicos\Drawing_Triangle\Drawing_Triangle\obj\x86\Debug\Drawing_Triangle.exe
+D:\Repositories\Source_Code\C#\exercios-logicos\Drawing_Triangle\Drawing_Triangle\obj\x86\Debug\Drawing_Triangle.pdb
