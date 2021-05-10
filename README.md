@@ -1,3 +1,3 @@
-# Algoritmos resolvidos em C# no meu tempo livre
+# Algorithms in C# used to solve problems
 
-Esse repositório é para guardar algoritmos de testes e aprendizado para futuras consultas
+This repositorie is used to store algorithms in C#, that was used to solve any kind of problem, where can be reused in any project
